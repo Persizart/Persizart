@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alexandre Persi
 
-<!--
-**Persizart/Persizart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Developing skills in JavaScript, Python and SQL | Intermediate English and Spanish | Seeking first internship opportunity**
 
-Here are some ideas to get you started:
+### Main skills
+- JavaScript
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Studying
+- Web Development
+- Data Structures
+- English and Spanish
+
+### My goal
+
+I'm currently a Software Engineering student building my project portfolio. This GitHub is where I practice and share my progress.
+
+### Connect with me!
+(coming soon)
