@@ -5,7 +5,7 @@
 </a>
 
 <div>
-    <img src="./assets/profile.gif" alt="About Me Terminal GIF"/>
+   <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ### Main skills
